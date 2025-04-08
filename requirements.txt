@@ -1,0 +1,6 @@
+google-genai==1.7.0
+pandas
+scikit-learn
+keras
+tqdm
+numpy
